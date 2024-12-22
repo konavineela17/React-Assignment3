@@ -1,0 +1,40 @@
+{
+    "name": "reactproject",
+    "version": "1.0.0",
+    "description": "Create Project using React\\",
+    "main": "index.js",
+    "scripts": {
+      "test": "jest",
+      "start": "parcel index.html",
+      "build": "parcel build index.html"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/konavineela17/React-Assignment3.git"
+    },
+    "keywords": [
+      "React",
+      "Components",
+      "Jsx",
+      "Assignment"
+    ],
+    "author": "Vineela",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/konavineela17/React-Assignment3"
+    },
+    "homepage": "https://github.com/konavineela17/React-Assignment3#readme",
+    "devDependencies": {
+      "parcel": "^2.13.3",
+      "process": "^0.11.10"
+    },
+    "browserslist": [
+      "last 2 versions",
+      "> 0.2%",
+      "not dead"
+    ],
+    "dependencies": {
+      "react": "^19.0.0",
+      "react-dom": "^19.0.0"
+    }
+  }
